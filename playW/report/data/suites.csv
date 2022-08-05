@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Aug 03 15:10:14 CST 2022","Wed Aug 03 15:10:16 CST 2022","2079","ddt","test_web_3","Test_Web","","","精确搜索","测试用例"
+"passed","Wed Aug 03 15:10:06 CST 2022","Wed Aug 03 15:10:08 CST 2022","1797","ddt","test_web_1","Test_Web","","","登录成功","测试用例"
+"passed","Wed Aug 03 15:10:12 CST 2022","Wed Aug 03 15:10:14 CST 2022","2146","ddt","test_web_3","Test_Web","","","搜索手机","测试用例"
+"passed","Wed Aug 03 15:10:11 CST 2022","Wed Aug 03 15:10:12 CST 2022","1663","ddt","test_web_2","Test_Web","","","删除收货地址","测试用例"
+"passed","Wed Aug 03 15:10:04 CST 2022","Wed Aug 03 15:10:06 CST 2022","2352","ddt","test_web_1","Test_Web","","","登录失败","测试用例"
+"passed","Wed Aug 03 15:10:08 CST 2022","Wed Aug 03 15:10:11 CST 2022","2190","ddt","test_web_2","Test_Web","","","新增收货地址","测试用例"
+"passed","Wed Aug 03 15:10:16 CST 2022","Wed Aug 03 15:10:19 CST 2022","2062","ddt","test_web_3","Test_Web","","","模糊匹配","测试用例"
