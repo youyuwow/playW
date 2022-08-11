@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-@Time ： 2022/3/30 21:36
-@Auth ： Mr. ZX 2929184523
-@Company ：特斯汀学院 @testingedu.com.cn
-@Function ：通过修改文件名，复用test_web.py运行所有的用例
-"""
+
 import os
 
 import pytest

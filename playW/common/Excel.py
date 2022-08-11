@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-@Time ： 2020/11/18 21:22
-@Auth ： Mr. William 1052949192
-@Company ：特斯汀学院 @testingedu.com.cn
-@Function ：兼容不同的excel版本
-"""
 import os
 from common.Excels import NewExcel
 from common.Excels import OldExcel

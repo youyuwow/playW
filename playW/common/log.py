@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-@Time ： 2020/8/14 10:44
-@Auth ： Mr. William 1052949192
-@Company ：特斯汀学院 @testingedu.com.cn
-@Function ：logging日志打印模块
-"""
+
 import logging
 import os
 

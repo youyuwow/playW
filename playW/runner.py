@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-@Time ： 2022/3/30 22:02
-@Auth ： Mr. ZX 2929184523
-@Company ：特斯汀学院 @testingedu.com.cn
-@Function ：数据驱动运行入口
-"""
+
 import io
 import os
 import sys

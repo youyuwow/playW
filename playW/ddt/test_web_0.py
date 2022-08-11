@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-@Time ： 2022/3/30 21:16
-@Auth ： Mr. ZX 2828184523
-@Company ：特斯汀学院 @testingedu.com.cn
-@Function ：pytest执行用例
-"""
 import os
 import time
 import traceback
